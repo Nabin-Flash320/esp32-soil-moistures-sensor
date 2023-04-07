@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "adc_types.h": "c",
+        "foundation.h": "c",
+        "mesh_byteorder.h": "c",
+        "health_srv.h": "c",
+        "trace.h": "c"
+    },
+    "idf.adapterTargetName": "esp32s3"
+}
